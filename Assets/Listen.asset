@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9781cfaa9e35cc45825f3ee3bb0c19a, type: 3}
+  m_Name: Listen
+  m_EditorClassIdentifier: 
+  storyText: Hello child, my name is Jyadon.  Welcome to Terra. It is time to enter
+    the world and contribute to The Wheel. You will become an apprentice to a guildmaster
+    from our tribe. You can choose your part.
+  nextStates:
+  - {fileID: 11400000, guid: 395c78084c8022542bb792108d3652c0, type: 2}
+  stateName: Listen

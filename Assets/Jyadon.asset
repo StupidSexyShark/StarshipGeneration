@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9781cfaa9e35cc45825f3ee3bb0c19a, type: 3}
+  m_Name: Jyadon
+  m_EditorClassIdentifier: 
+  storyText: 'The steel vault closes behind you. Metallic and chemical odors are replaced
+    by organic dirt, pollen, and animal smells.  You are new to this world, but your
+    mind is filled with ideas, images, and concepts: A tutorial of what it means to
+    be a thing called "human" and how to eat, shelter, and survive.  A man stands
+    in front of you, and you know what seperates you is the thing called age.  He
+    must be listened to for having lived so long.'
+  nextStates:
+  - {fileID: 11400000, guid: abe90327ebd0af24fbf64ad49641f57a, type: 2}
+  stateName: Jyadon
